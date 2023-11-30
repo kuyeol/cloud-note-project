@@ -1,4 +1,0 @@
-
-Wtypescript:S3516 ";Refactor this function to not always return the same value.(îŒÚ
-|typescript:S6582#"[Prefer using an optional chain expression instead, as it's more concise and easier to read.(°ÎŞóûÿÿÿÿ
-rtypescript:S6544I"QPromise-returning function provided to property where a void return was expected.(Ü¡™Åúÿÿÿÿ
