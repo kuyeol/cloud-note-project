@@ -2,7 +2,7 @@ import {getAllLocales} from "../../../umi/plugin-locale";
 
 import React,{ useState } from 'react';
 import { Menu, version, Dropdown } from 'antd';
-import {getLocale, setLocale} from "@@/plugin-locale";
+import {getLocale, setLocale} from "@/plugin-locale";
 
 
 
